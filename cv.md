@@ -10,10 +10,10 @@ __Oregon Health and Science University__
 Masters of Science: Bioinformatics and Computational Biomedicine
 
 * Precision medicine
-* Systems biology and systems genetics
-* Network inference and pathway methods
-* Complex traits and statistical genetics
-* Chromosome evolution and epigenetics
+* Systems biology and systems genetics      * Drug repurposing methods
+* Network inference and pathway methods     * Ontologies and data standards
+* Complex traits and statistical genetics   * Reproducible research
+* Chromosome evolution and epigenetics      * Image analysis
 
 `2007-2011`
 __University of West Florida__
