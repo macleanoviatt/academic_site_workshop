@@ -7,17 +7,23 @@ title: CV
 ## Education
 `2021-2023`
 __Oregon Health and Science University__
-Masters of Science: Bioinformatics and Computational Biomedicine
+Masters of Science: 
+Bioinformatics and Computational Biomedicine
 
 * Precision medicine
-* Systems biology and systems genetics      * Drug repurposing methods
-* Network inference and pathway methods     * Ontologies and data standards
-* Complex traits and statistical genetics   * Reproducible research
-* Chromosome evolution and epigenetics      * Image analysis
+* Systems biology and systems genetics
+* Drug repurposing methods
+* Network inference and pathway methods
+* Ontologies and data standards
+* Complex traits and statistical genetics
+*  Reproducible research
+* Chromosome evolution and epigenetics
+* Image analysis
 
 `2007-2011`
 __University of West Florida__
-Bachelors of Science: Pre-professional Biology
+Bachelors of Science: 
+Pre-professional Biology
 
 ## Skills
 * Advanced Mathematical Abilities in Statistical Analysis, Linear Algebra, Multivariate Calculus, and Biostatistics
