@@ -21,10 +21,14 @@ Masters of Science: Bioinformatics and Computational Biomedicine
 __University of West Florida__
 Bachelors of Science: Pre-professional Biology
 
-## Awards
+## Skills
 
-`2012`
-Name of Award, Organization 
+• Advanced Mathematical Abilities in Statistical Analysis, Linear Algebra, Multivariate Calculus, and Biostatistics
+• Computer Skills in writing and analyzing Machine Learning Algorithms from scratch, Electronic Data Analysis, Python Modules	
+• Large-Scale Data Management including SQL, CouchDB, Neo4j, Ensembl, and cloud-based databases 
+• Computer Languages Python, R, Linux/Unix, Matlab
+• Data Collection, Experimental Design, and Process Optimization
+
 
 ## Publications
 
