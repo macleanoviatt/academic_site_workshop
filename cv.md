@@ -10,6 +10,7 @@ Current Position Description
 `2021-2023`
 __Oregon Health and Science University__
 Masters of Science: Bioinformatics and Computational Biomedicine
+
 •	Precision medicine
 •	Systems biology and systems genetics
 •	Network inference and pathway methods
