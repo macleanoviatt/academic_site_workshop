@@ -4,6 +4,6 @@ title: Projects
 excerpt: "Recent Projects"
 ---
 
-# Update coming soon
+Update coming soon
 
 - [GitHub](https://github.com/macleanoviatt)
