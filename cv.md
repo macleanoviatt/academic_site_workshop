@@ -36,15 +36,15 @@ __Research Intern – OHSU Knight Institute, Center for Experimental Therapeutic
 * Conduct scientific method development in specific cheminformatics/AI (on-target potency or property prediction model building) or molecular modeling (SBDD or binding free energy calculation) areas applicable to drug discovery
 * Apply existing machine learning or deep learning models in projects, or further develop with better algorithms if appropriate.
 
-'2011-present'
+`2011-present`
 __Veterinary Technician__ 
 * Responsible for the medical treatment and care of all hospitalized patients. Duties included all treatments and personalized patient needs (IV fluids, injections, PO meds, heating/cooling support, oxygen treatment etc.), diagnostic testing (lab work from obtained blood, urine, and fecal samples; radiographs; vitals monitoring, etc.) while keeping track of nursing notes, charges, and status on every patient. Proficient in animal CPR in the event of an emergency.
 
-'2013-2015'
+`2013-2015`
 __Management – Uncharted Marketing Solutions, Inc.__ 
 * Managed and operated a business in marketing and sales for major clients such as DirecTV, Costco, and Best Buy. Ran an office of up to 7 employees, and took on roles as administrator, hiring manager, and recruiter. Trained multiple entry-level employees in the basics of marketing and sales.
 
-'Summer 2011'
+`Summer 2011`
 __Research Fellow - Operation Wallacea, Hoga, Indonesia__
 * Wakatobi Indonesian Culture, Community and Environment/Indonesian Experience, Indo-Pacific Coral Reef Ecology, Vertebrate Physiology; Respiratory physiology & minimum oxygen requirements of marine fishes, Behavioral and physiological tolerance strategies of poikilotherms, Physiological mechanisms of oxic, thermal and osmoregulatory compensation, Role of stress proteins in thermal tolerance.
 
