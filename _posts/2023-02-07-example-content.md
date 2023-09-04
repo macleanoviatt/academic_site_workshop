@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Example content
-excerpt: "What is a static website generator, and why should I care?"
+title: Research --soon to come
 modified: 2/29/2016, 9:00:24
 tags: [intro, beginner, jekyll, tutorial]
 comments: true
 category: blog
 ---
+
+#excerpt: "What is a static website generator, and why should I care?"
 
 <div class="message">
   Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
