@@ -6,4 +6,4 @@ excerpt: "Recent Projects"
 
 # Update coming soon
 
-- [GitHub Pages Workshop](https://github.com/macleanoviatt)
+- [GitHub](https://github.com/macleanoviatt)
