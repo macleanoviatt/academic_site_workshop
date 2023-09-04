@@ -7,13 +7,13 @@ Current Position Description
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2021-2023`
+__Oregon Health and Science University__
+Masters of Science: Bioinformatics and Computational Biomedicine
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2007-2011`
+__University of West Florida__
+Bachelors of Science: Pre-professional Biology
 
 ## Awards
 
