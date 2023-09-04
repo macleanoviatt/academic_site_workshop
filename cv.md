@@ -1,8 +1,9 @@
 ---
 layout: resume
 ---
-## Education
 
+
+## Education
 `2021-2023`
 __Oregon Health and Science University__
 Masters of Science: Bioinformatics and Computational Biomedicine
