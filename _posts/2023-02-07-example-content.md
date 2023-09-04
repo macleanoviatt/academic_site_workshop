@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Research --soon to come
+title: Research 
+excerpt: "Update coming soon"
 modified: 2/29/2016, 9:00:24
 tags: [intro, beginner, jekyll, tutorial]
 comments: true
